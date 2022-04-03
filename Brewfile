@@ -27,25 +27,27 @@ brew 'php'
 brew 'php@8.0'
 brew 'php@7.4'
 brew 'composer'
-brew 'imagemagick'
-brew 'meilisearch'
 brew 'mysql'
 brew 'nginx'
-brew 'node'
 brew 'redis'
-brew 'yarn'
 
 # Apps
-cask 'docker'
-cask 'github'
 cask 'google-chrome'
-cask 'homebrew/cask-drivers/elgato-stream-deck'
-cask 'imageoptim'
 cask 'phpstorm'
-cask 'ray'
+cask 'iterm2'
 cask 'telegram-desktop'
-cask 'tunnelbear'
-
+cask 'tunnelblick'
+cask 'wechat'
+cask 'microsoft-edge'
+cask 'maestral'
+cask 'one-switch'
+cask 'wechatwork'
+cask 'tencent-meeting'
+cask 'raycast'
+cask 'dingtalk-lite'
+cask 'shiftit'
+cask 'notion'
+cask 'enpass'
 
 # Fonts
 cask 'font-lato'
@@ -59,5 +61,4 @@ cask 'font-source-serif-pro'
 # Mac App Store
 
 mas 'Spark', id: 1176895641
-mas 'Speedtest', id: 1153157709
 
