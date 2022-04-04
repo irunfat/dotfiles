@@ -49,6 +49,7 @@ cask 'shiftit'
 cask 'notion'
 cask 'enpass'
 
+
 # Fonts
 cask 'font-lato'
 cask 'font-open-sans'
