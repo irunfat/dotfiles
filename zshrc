@@ -108,3 +108,4 @@ export LANG=en_US.UTF-8
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+for config_file ($DOTFILES/zsh/*.zsh) source $config_file
