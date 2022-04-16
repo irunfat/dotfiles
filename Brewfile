@@ -54,6 +54,7 @@ cask 'thinkorswim'
 cask 'finicky'
 cask 'unclack'
 cask 'fig'
+cask 'authy'
 
 # Fonts
 cask 'font-lato'
