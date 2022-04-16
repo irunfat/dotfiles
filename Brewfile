@@ -50,7 +50,9 @@ cask 'dingtalk-lite'
 cask 'shiftit'
 cask 'notion'
 cask 'enpass'
-
+cask 'thinkorswim'
+cask 'finicky'
+cask 'unclack'
 
 # Fonts
 cask 'font-lato'
