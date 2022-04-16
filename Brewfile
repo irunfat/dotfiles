@@ -53,6 +53,7 @@ cask 'enpass'
 cask 'thinkorswim'
 cask 'finicky'
 cask 'unclack'
+cask 'fig'
 
 # Fonts
 cask 'font-lato'
