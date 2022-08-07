@@ -51,6 +51,8 @@ cask 'finicky'
 cask 'unclack'
 cask 'authy'
 cask 'rectangle'
+cask 'appcleaner'
+cask 'iina'
 
 # Fonts
 cask 'font-lato'
