@@ -54,6 +54,9 @@ cask 'rectangle'
 cask 'appcleaner'
 cask 'iina'
 cask 'itsycal'
+cask 'maccy'
+cask 'devtoys'
+cask 'stats'
 
 # Fonts
 cask 'font-lato'
@@ -68,4 +71,5 @@ cask 'font-hack-nerd-font'
 # Mac App Store
 
 mas 'Spark', id: 1176895641
+mas 'The Unarchiver', id: 425424353
 
