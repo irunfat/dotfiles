@@ -57,6 +57,7 @@ cask 'fig'
 cask 'authy'
 cask 'appcleaner'
 cask 'iina'
+cask 'itsycal'
 
 # Fonts
 cask 'font-lato'
