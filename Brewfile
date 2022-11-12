@@ -19,7 +19,6 @@ brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'stripe/stripe-cli/stripe'
-brew 'svn' # Needed to install fonts
 brew 'kubernetes-cli'
 
 
@@ -57,6 +56,7 @@ cask 'itsycal'
 cask 'maccy'
 cask 'devtoys'
 cask 'stats'
+cask 'obsidian'
 
 # Fonts
 cask 'font-lato'
