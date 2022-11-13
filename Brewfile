@@ -57,6 +57,7 @@ cask 'maccy'
 cask 'devtoys'
 cask 'stats'
 cask 'obsidian'
+cask 'shottr'
 
 # Fonts
 cask 'font-lato'
