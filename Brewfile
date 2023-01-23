@@ -7,57 +7,23 @@ tap 'nicoverbruggen/homebrew-cask'
 tap 'stripe/stripe-cli'
 
 # Binaries
-brew 'awscli'
 brew 'bash' # Latest Bash version
-brew 'bat' # Used for spatie/visit
 brew 'coreutils' # Those that come with macOS are outdated
-brew 'ffmpeg'
-brew 'gh'
 brew 'git'
-brew 'grep'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
-brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
-brew 'stripe/stripe-cli/stripe'
 brew 'kubernetes-cli'
 
 
 
 # Development
-brew 'php'
-brew 'php@8.0'
-brew 'php@7.4'
-brew 'composer'
-brew 'mysql'
-brew 'nginx'
-brew 'redis'
-
-# Apps
-cask 'google-chrome'
-cask 'phpstorm'
-cask 'iterm2'
-cask 'telegram-desktop'
-cask 'tunnelblick'
-cask 'wechat'
-cask 'maestral'
-cask 'one-switch'
-cask 'wechatwork'
-cask 'tencent-meeting'
-cask 'raycast'
-cask 'dingtalk-lite'
-#cask 'shiftit'
-cask 'finicky'
-cask 'unclack'
-cask 'authy'
-#cask 'rectangle'
-cask 'appcleaner'
-cask 'iina'
-cask 'itsycal'
-cask 'maccy'
-cask 'devtoys'
-cask 'stats'
-cask 'obsidian'
-cask 'shottr'
+#brew 'php'
+#brew 'php@8.0'
+#brew 'php@7.4'
+#brew 'composer'
+#brew 'mysql'
+#brew 'nginx'
+#brew 'redis'
 
 # Fonts
 cask 'font-lato'
@@ -68,6 +34,29 @@ cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 cask 'font-hack-nerd-font'
+
+# Apps
+cask 'iterm2'
+cask 'telegram-desktop'
+cask 'tunnelblick'
+cask 'wechat'
+cask 'maestral'
+cask 'one-switch'
+cask 'wechatwork'
+cask 'tencent-meeting'
+cask 'raycast'
+cask 'dingtalk-lite'
+cask 'finicky'
+cask 'appcleaner'
+#cask 'iina'
+cask 'itsycal'
+cask 'maccy'
+cask 'obsidian'
+cask 'shottr'
+#cask 'google-chrome'
+#cask 'devtoys'
+#cask 'stats'
+
 
 # Mac App Store
 
