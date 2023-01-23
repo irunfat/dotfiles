@@ -15,3 +15,6 @@ curl https://raw.githubusercontent.com/irunfat/dotfiles/HEAD/ssh.sh | sh -s "<yo
 ```
 
 
+```
+ sudo spctl --master-disable
+```
